@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=TransactionRoom
+comment1.params=
+comment1.target=TransactionRoom()
+comment10.params=p
+comment10.target=void\ setNameCustomer(java.lang.String)
+comment11.params=c
+comment11.target=void\ setTypeRoom(int)
+comment12.params=v
+comment12.target=void\ setTotalDays(int)
+comment2.params=
+comment2.target=java.lang.String\ getNameCustomer()
+comment3.params=
+comment3.target=int\ getTypeRoom()
+comment4.params=
+comment4.target=int\ getTotalDays()
+comment5.params=
+comment5.target=java.lang.String[]\ getNameTypeRoomData()
+comment6.params=
+comment6.target=java.lang.String\ getNameTypeRoom()
+comment7.params=
+comment7.target=int\ calculatePrice()
+comment8.params=
+comment8.target=java.lang.String[]\ getFacilitateData()
+comment9.params=
+comment9.target=java.lang.String\ getFacilitate()
+numComments=13
